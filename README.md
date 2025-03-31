@@ -1,18 +1,22 @@
-<p align="right"> 
-    <img src=https://github.com/kasungeesara&label=Profile%20views&color=0e75b6&style=flat" alt="geethdev" /> 
-</p>
+## Hi there, I'm Kasun Karunanayaka! 👋
 
-<br>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm kasun karunanayaka!;" />
-</h1>
+Welcome to my GitHub profile! I'm passionate about data engineering, machine learning, and mobile app development. My expertise spans working with Snowflake, Python, Spark MLlib, and Flutter.
 
-<hr/>
-<br>
-<br>
-<p align="center">
-    <a href=""><img src="https://streak-stats.demolab.com?user=geethdev&theme=highcontrast" alt="GitHub Streak" /></a>
-</p>
-<br>
+### 🚀 What I'm Working On
+- Building predictive models using **Spark MLlib**
+- Processing big data with **Snowflake and Python**
+- Developing real-time analytics pipelines with **Spark Streaming**
+- Creating engaging mobile experiences using **Flutter & Firebase**
 
-![snake gif](https://github.com/geethdev/geethdev/blob/output/github-contribution-grid-snake-dark.svg)
+### 🔧 Technologies & Tools
+- **Programming:** Python, Flutter (Dart)
+- **Data & Cloud:** Snowflake, Spark, Pandas
+- **Machine Learning:** Spark MLlib, Scikit-Learn
+- **Mobile Development:** Flutter, Firebase Authentication
+
+### 📫 Connect with Me
+- **GitHub:** [KasunKarunanayaka](https://github.com/your-github-handle)
+- **LinkedIn:** [Kasun Karunanayaka](https://linkedin.com/in/your-linkedin-profile)
+- **Email:** your-email@example.com
+
+Let's collaborate and build something amazing together! 🚀

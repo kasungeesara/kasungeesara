@@ -1,22 +1,49 @@
-## Hi there, I'm Kasun Karunanayaka! 👋
+### Hi there, I'm Kasun Karunanayaka! 👋
 
-Welcome to my GitHub profile! I'm passionate about data engineering, machine learning, and mobile app development. My expertise spans working with Snowflake, Python, Spark MLlib, and Flutter.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Enthusiast;Flutter+Developer;Machine+Learning+Explorer)
 
-### 🚀 What I'm Working On
-- Building predictive models using **Spark MLlib**
-- Processing big data with **Snowflake and Python**
-- Developing real-time analytics pipelines with **Spark Streaming**
-- Creating engaging mobile experiences using **Flutter & Firebase**
+---
 
-### 🔧 Technologies & Tools
-- **Programming:** Python, Flutter (Dart)
-- **Data & Cloud:** Snowflake, Spark, Pandas
-- **Machine Learning:** Spark MLlib, Scikit-Learn
-- **Mobile Development:** Flutter, Firebase Authentication
+### 🚀 About Me
+- 💻 Passionate about **Software Development & Data Science**
+- 🔥 Enthusiastic about **Flutter, Firebase, and Spark MLlib**
+- 🌍 Love working on **Cloud-based solutions & Real-time Analytics**
+- 📚 Constantly learning and experimenting with new tech
 
-### 📫 Connect with Me
-- **GitHub:** [KasunKarunanayaka](https://github.com/your-github-handle)
-- **LinkedIn:** [Kasun Karunanayaka](https://linkedin.com/in/your-linkedin-profile)
-- **Email:** your-email@example.com
+---
 
-Let's collaborate and build something amazing together! 🚀
+### 🛠️ Tech Stack
+
+#### 🚀 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+#### ☁️ Cloud & Databases
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KasunKarunanayaka&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KasunKarunanayaka&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasunKarunanayaka&layout=compact&theme=radical"/>
+</div>
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kasun-karunanayaka)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KasunKarunanayaka)
+
+---
+
+💡 *"Keep exploring, keep innovating!"* 🚀

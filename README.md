@@ -1,6 +1,6 @@
 ### Hi there, I'm Kasun Karunanayaka! 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Enthusiast;Flutter+Developer;Machine+Learning+Explorer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Software+Engineer;Flutter+Developer;puka+sudud?)
 
 ---
 

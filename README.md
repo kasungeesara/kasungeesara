@@ -34,7 +34,6 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasungeesara&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kasungeesara&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasungeesara&layout=compact&theme=radical"/>
 </div>
 
